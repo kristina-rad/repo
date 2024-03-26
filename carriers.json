@@ -5,288 +5,3496 @@
       "secondary": "#93C256"
     },
     "prettyName": "99minutos",
-    "region": "MEX",
-    "pageUrl": ""
+    "region": "MEX"
   },
-  "aaaco4oper": {
+  "aaacooper": {
     "colors": {
       "primary": "#FFFFFF",
       "secondary": "#2A5CA1"
     },
     "prettyName": "AAA Cooper",
-    "region": "USA",
-    "pageUrl": ""
+    "region": "USA"
   },
-  "abc-log4istik": {
+  "abc-logistik": {
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF",
       "url": "https://cdn.parcellab.com/img/couriers_logo/abc-logistik.svg"
     },
     "prettyName": "ABC Logistik",
-    "region": "",
-    "pageUrl": ""
+    "region": ""
   },
-  "ac4": {
+  "acs": {
     "colors": {
       "primary": "#FFFFFF",
       "secondary": "#D00007"
     },
     "prettyName": "Acs",
-    "region": "POL",
-    "pageUrl": ""
+    "region": "POL"
   },
-  "a4der": {
+  "ader": {
     "colors": {
       "primary": "#005626",
       "secondary": "#FFFFFF",
       "url": "https://cdn.parcellab.com/img/couriers_logo/ader.svg"
     },
     "prettyName": "ADER",
-    "region": "ESP",
-    "pageUrl": ""
+    "region": "ESP"
   },
-  "af-l4ogistics": {
+  "af-logistics": {
     "colors": {
       "primary": "#ff0000",
       "secondary": "#FFFFFF"
     },
     "prettyName": "AF Logistics",
-    "region": "",
-    "pageUrl": ""
+    "region": ""
   },
-  "airme4e-se": {
+  "airmee-se": {
     "colors": {
       "primary": "#000000",
       "secondary": "#F9F9F9",
       "url": "https://cdn.parcellab.com/img/couriers_logo/airmee-se.svg"
     },
     "prettyName": "Airmee",
-    "region": "",
-    "pageUrl": ""
+    "region": ""
   },
-  "amazon-l4ogistics": {
+  "amazon-logistics": {
     "colors": {
       "primary": "#E47911",
       "secondary": "#FFFFFF",
       "url": "https://cdn.parcellab.com/img/couriers_logo/amazon-logistics.svg"
     },
     "prettyName": "Amazon Logistics",
-    "region": "FRA",
-    "pageUrl": ""
+    "region": "FRA"
   },
-  "amazonshi4pping": {
+  "amazonshipping": {
     "colors": {
       "primary": "#D77E32",
       "secondary": "#000000",
       "url": "https://cdn.parcellab.com/img/couriers_logo/amazonshipping.svg"
     },
     "prettyName": "Amazon Shipping",
-    "region": "GBR, USA",
-    "pageUrl": ""
+    "region": "GBR, USA"
   },
-   "abc-l3ogistik": {
+  "schmid": {
     "colors": {
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "url": "https://cdn.parcellab.com/img/couriers_logo/abc-logistik.svg"
+      "primary": "#FECC02",
+      "secondary": "#333333",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/schmid.svg"
     },
-    "prettyName": "ABC Logistik",
-    "region": "",
-    "pageUrl": ""
+    "prettyName": "Andreas Schmid / IDS",
+    "region": ""
   },
-  "ac3s": {
+  "angel-de": {
+    "colors": {
+      "primary": "#1C1C1B",
+      "secondary": "#ABD377"
+    },
+    "prettyName": "Angel",
+    "region": "DEU"
+  },
+  "anpost": {
     "colors": {
       "primary": "#FFFFFF",
-      "secondary": "#D00007"
+      "secondary": "#4AA46F"
     },
-    "prettyName": "Acs",
-    "region": "POL",
-    "pageUrl": ""
+    "prettyName": "An Post",
+    "region": ""
   },
-  "ad3er": {
-    "colors": {
-      "primary": "#005626",
-      "secondary": "#FFFFFF",
-      "url": "https://cdn.parcellab.com/img/couriers_logo/ader.svg"
-    },
-    "prettyName": "ADER",
-    "region": "ESP",
-    "pageUrl": ""
-  },
-  "af-log3istics": {
-    "colors": {
-      "primary": "#ff0000",
-      "secondary": "#FFFFFF"
-    },
-    "prettyName": "AF Logistics",
-    "region": "",
-    "pageUrl": ""
-  },
-  "airme3e-se": {
-    "colors": {
-      "primary": "#000000",
-      "secondary": "#F9F9F9",
-      "url": "https://cdn.parcellab.com/img/couriers_logo/airmee-se.svg"
-    },
-    "prettyName": "Airmee",
-    "region": "",
-    "pageUrl": ""
-  },
-  "amazon-logis3tics": {
-    "colors": {
-      "primary": "#E47911",
-      "secondary": "#FFFFFF",
-      "url": "https://cdn.parcellab.com/img/couriers_logo/amazon-logistics.svg"
-    },
-    "prettyName": "Amazon Logistics",
-    "region": "FRA",
-    "pageUrl": ""
-  },
-  "amazonshi3pping": {
-    "colors": {
-      "primary": "#D77E32",
-      "secondary": "#000000",
-      "url": "https://cdn.parcellab.com/img/couriers_logo/amazonshipping.svg"
-    },
-    "prettyName": "Amazon Shipping",
-    "region": "GBR, USA",
-    "pageUrl": ""
-  },
-   "abc-l2ogistik": {
-    "colors": {
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "url": "https://cdn.parcellab.com/img/couriers_logo/abc-logistik.svg"
-    },
-    "prettyName": "ABC Logistik",
-    "region": "",
-    "pageUrl": ""
-  },
-  "ac2s": {
+  "ao": {
     "colors": {
       "primary": "#FFFFFF",
-      "secondary": "#D00007"
+      "secondary": "#6EAF1C",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/ao.svg"
     },
-    "prettyName": "Acs",
-    "region": "POL",
-    "pageUrl": ""
+    "prettyName": "AO",
+    "region": ""
   },
-  "ad2er": {
-    "colors": {
-      "primary": "#005626",
-      "secondary": "#FFFFFF",
-      "url": "https://cdn.parcellab.com/img/couriers_logo/ader.svg"
-    },
-    "prettyName": "ADER",
-    "region": "ESP",
-    "pageUrl": ""
-  },
-  "af-logi2stics": {
-    "colors": {
-      "primary": "#ff0000",
-      "secondary": "#FFFFFF"
-    },
-    "prettyName": "AF Logistics",
-    "region": "",
-    "pageUrl": ""
-  },
-  "airme2e-se": {
-    "colors": {
-      "primary": "#000000",
-      "secondary": "#F9F9F9",
-      "url": "https://cdn.parcellab.com/img/couriers_logo/airmee-se.svg"
-    },
-    "prettyName": "Airmee",
-    "region": "",
-    "pageUrl": ""
-  },
-  "amazon-logis2tics": {
-    "colors": {
-      "primary": "#E47911",
-      "secondary": "#FFFFFF",
-      "url": "https://cdn.parcellab.com/img/couriers_logo/amazon-logistics.svg"
-    },
-    "prettyName": "Amazon Logistics",
-    "region": "FRA",
-    "pageUrl": ""
-  },
-  "amazonshippi2ng": {
-    "colors": {
-      "primary": "#D77E32",
-      "secondary": "#000000",
-      "url": "https://cdn.parcellab.com/img/couriers_logo/amazonshipping.svg"
-    },
-    "prettyName": "Amazon Shipping",
-    "region": "GBR, USA",
-    "pageUrl": ""
-  },
-   "abc-logist1ik": {
-    "colors": {
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "url": "https://cdn.parcellab.com/img/couriers_logo/abc-logistik.svg"
-    },
-    "prettyName": "ABC Logistik",
-    "region": "",
-    "pageUrl": ""
-  },
-  "a1cs": {
+  "aramex": {
     "colors": {
       "primary": "#FFFFFF",
-      "secondary": "#D00007"
+      "secondary": "#E11A22"
     },
-    "prettyName": "Acs",
-    "region": "POL",
-    "pageUrl": ""
+    "prettyName": "aramex",
+    "region": "USA"
   },
-  "ad1er": {
+  "arens": {
     "colors": {
-      "primary": "#005626",
-      "secondary": "#FFFFFF",
-      "url": "https://cdn.parcellab.com/img/couriers_logo/ader.svg"
+      "primary": "#D34428",
+      "secondary": "#FEF5BD",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/arens.svg"
     },
-    "prettyName": "ADER",
-    "region": "ESP",
-    "pageUrl": ""
+    "prettyName": "Arens",
+    "region": ""
   },
-  "af-logisti1cs": {
+  "arrowxl": {
     "colors": {
-      "primary": "#ff0000",
-      "secondary": "#FFFFFF"
+      "primary": "#F19937",
+      "secondary": "#4E8880"
     },
-    "prettyName": "AF Logistics",
-    "region": "",
-    "pageUrl": ""
+    "prettyName": "ArrowXL",
+    "region": ""
   },
-  "airmee-s1e": {
+  "iforce-arrowxl": {
+    "colors": {
+      "primary": "#F19937",
+      "secondary": "#4E8880"
+    },
+    "prettyName": "ArrowXL",
+    "region": ""
+  },
+  "asendia": {
     "colors": {
       "primary": "#000000",
-      "secondary": "#F9F9F9",
-      "url": "https://cdn.parcellab.com/img/couriers_logo/airmee-se.svg"
+      "secondary": "#FCF150",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/asendia.svg"
     },
-    "prettyName": "Airmee",
-    "region": "",
-    "pageUrl": ""
+    "prettyName": "Asendia",
+    "region": "USA, ESP, GBR"
   },
-  "amazon-logistics1": {
+  "asendia-us": {
     "colors": {
-      "primary": "#E47911",
+      "primary": "#000000",
+      "secondary": "#FCF150",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/asendia.svg"
+    },
+    "prettyName": "Asendia",
+    "region": ""
+  },
+  "australian-post": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#CA3930",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/australian-post.svg"
+    },
+    "prettyName": "Australia Post",
+    "region": "USA, AUS"
+  },
+  "axlehire": {
+    "colors": {
+      "primary": "#2A2444",
+      "secondary": "#ECEEF7",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/axlehire.svg"
+    },
+    "prettyName": "AxleHire",
+    "region": ""
+  },
+  "balter": {
+    "colors": {
+      "primary": "#606E98",
       "secondary": "#FFFFFF",
-      "url": "https://cdn.parcellab.com/img/couriers_logo/amazon-logistics.svg"
+      "url": "https://cdn.parcellab.com/img/couriers_logo/balter.svg"
     },
-    "prettyName": "Amazon Logistics",
-    "region": "FRA",
-    "pageUrl": ""
+    "prettyName": "Balter",
+    "region": ""
   },
-  "amazonshipping1": {
+  "brt-it": {
     "colors": {
-      "primary": "#D77E32",
-      "secondary": "#000000",
-      "url": "https://cdn.parcellab.com/img/couriers_logo/amazonshipping.svg"
+      "primary": "#FFFFFF",
+      "secondary": "#C91023",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/bartolini.svg"
     },
-    "prettyName": "Amazon Shipping",
-    "region": "GBR, USA",
-    "pageUrl": ""
+    "prettyName": "Bartolini",
+    "region": "DEU, AUT, ITA, POL, FRA, NLD"
+  },
+  "bartolini": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C91023",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/bartolini.svg"
+    },
+    "prettyName": "Bartolini",
+    "region": ""
+  },
+  "best-transport": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#ff8200"
+    },
+    "prettyName": "Best Transport",
+    "region": ""
+  },
+  "bexity": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "BEXITY",
+    "region": ""
+  },
+  "bjs": {
+    "colors": {
+      "primary": "#fdba30",
+      "secondary": "#695e50",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/bjs.svg"
+    },
+    "prettyName": "BJS Home Delivery",
+    "region": ""
+  },
+  "iforce-bjs": {
+    "colors": {
+      "primary": "#fdba30",
+      "secondary": "#695e50",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/bjs.svg"
+    },
+    "prettyName": "BJS Home Delivery",
+    "region": ""
+  },
+  "eshipz-bluedart": {
+    "colors": {
+      "primary": "#FEFFFD",
+      "secondary": "#005BA7"
+    },
+    "prettyName": "Blue Dart",
+    "region": ""
+  },
+  "bluedart-in": {
+    "colors": {
+      "primary": "#FEFFFD",
+      "secondary": "#005BA7",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/bluedart-in.svg"
+    },
+    "prettyName": "Blue Dart",
+    "region": ""
+  },
+  "boxberry": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#E11D43",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/boxberry.svg"
+    },
+    "prettyName": "Boxberry",
+    "region": ""
+  },
+  "bpost": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#AC090D",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/bpost.svg"
+    },
+    "prettyName": "bpost",
+    "region": "DEU, FRA, BEL, ISR"
+  },
+  "alltech-braspress": {
+    "colors": {
+      "primary": "#12d500",
+      "secondary": "#D58500"
+    },
+    "prettyName": "Braspress",
+    "region": ""
+  },
+  "bring": {
+    "colors": {
+      "primary": "#7BC144",
+      "secondary": "#C1C1C1",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/bring.svg"
+    },
+    "prettyName": "Bring",
+    "region": "DEU, NLD, SWE, DNK, NOR"
+  },
+  "budbee-se": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#42CDA5",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/budbee-se.svg"
+    },
+    "prettyName": "Budbee",
+    "region": "DEU, SWE, BEL, NLD, DNK, FIN"
+  },
+  "bursped": {
+    "colors": {
+      "primary": "337578",
+      "secondary": "FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/bursped.svg"
+    },
+    "prettyName": "Bursped",
+    "region": ""
+  },
+  "camion-ch": {
+    "colors": {
+      "primary": "#080702",
+      "secondary": "#F8CE46",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/camion-ch.svg"
+    },
+    "prettyName": "Camion Transport",
+    "region": ""
+  },
+  "canada-post": {
+    "colors": {
+      "primary": "#C23421",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/canada-post.svg"
+    },
+    "prettyName": "Canada Post",
+    "region": "USA, NLD"
+  },
+  "canparexpress-ca": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Canpar Express",
+    "region": ""
+  },
+  "cargoline": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#CC0000",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/cargoline.svg"
+    },
+    "prettyName": "CargoLine",
+    "region": ""
+  },
+  "cchezvous": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#c53a4d"
+    },
+    "prettyName": "C Chez Vous",
+    "region": ""
+  },
+  "cdek-express": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#66AD1F",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/cdek-express.svg"
+    },
+    "prettyName": "CDEK",
+    "region": "RUS"
+  },
+  "cdl": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "CDL",
+    "region": ""
+  },
+  "sgel-es": {
+    "colors": {
+      "primary": "#00658B",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/sgel-es.svg"
+    },
+    "prettyName": "celeritas",
+    "region": ""
+  },
+  "ceska-posta": {
+    "colors": {
+      "primary": "#15377D",
+      "secondary": "#FBCD33",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/ceska-posta.svg"
+    },
+    "prettyName": "Česká pošta",
+    "region": "DEU"
+  },
+  "ceva": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#021D49"
+    },
+    "prettyName": "CEVA",
+    "region": ""
+  },
+  "charlantoine-fr": {
+    "colors": {
+      "primary": "#D00038",
+      "secondary": "#DFE7EE",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/charlantoine-fr.svg"
+    },
+    "prettyName": "Charlantoine",
+    "region": ""
+  },
+  "chronopost": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#0082CE",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/chronopost.svg"
+    },
+    "prettyName": "Chronopost",
+    "region": "FRA, DEU, DNK"
+  },
+  "chyuan-toong": {
+    "colors": {
+      "primary": "#000080",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "Chyuan-Toong Logistics",
+    "region": "ITA"
+  },
+  "citymail": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#00B140"
+    },
+    "prettyName": "City Mail",
+    "region": "SWE"
+  },
+  "cjlogistics": {
+    "colors": {
+      "primary": "#0070C9",
+      "secondary": "#F7F7F7",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/cjlogistics.svg"
+    },
+    "prettyName": "CJLogistics",
+    "region": ""
+  },
+  "clipper": {
+    "colors": {
+      "primary": "#8CC63F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/clipper.svg"
+    },
+    "prettyName": "Clipper",
+    "region": ""
+  },
+  "cn-logistics": {
+    "colors": {
+      "primary": "#00008B",
+      "secondary": "#d3d3d3"
+    },
+    "prettyName": "CN Logistics",
+    "region": ""
+  },
+  "arvato-colisprivee": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#1D1D1B",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/colisprivee.svg"
+    },
+    "prettyName": "Colis Privé",
+    "region": ""
+  },
+  "colisprivee": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#1D1D1B",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/colisprivee.svg"
+    },
+    "prettyName": "Colis Privé",
+    "region": "FRA, DEU"
+  },
+  "coll-8": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#D8117D",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/coll-8.svg"
+    },
+    "prettyName": "Coll-8 Logistics",
+    "region": ""
+  },
+  "correos": {
+    "colors": {
+      "primary": "#0A0B47",
+      "secondary": "#FFCB38",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/correos.svg"
+    },
+    "prettyName": "Correos",
+    "region": "FRA, DEU, ESP"
+  },
+  "correos-express": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#002551",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/cex.svg"
+    },
+    "prettyName": "Correos Express",
+    "region": "FRA, DEU, ESP"
+  },
+  "ctt": {
+    "colors": {
+      "primary": "#df0024",
+      "secondary": "#ffffff",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/ctt.svg"
+    },
+    "prettyName": "CTT",
+    "region": "PRT, FRA"
+  },
+  "cubyn": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#537BF6",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/cubyn.svg"
+    },
+    "prettyName": "Cubyn",
+    "region": "FRA, DEU"
+  },
+  "fietskoeriers": {
+    "colors": {
+      "primary": "#e4002b",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "Cycloon",
+    "region": "NLD"
+  },
+  "cyprus-post": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Cyprus Post",
+    "region": ""
+  },
+  "dachser-es": {
+    "colors": {
+      "primary": "#0F3F90",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dachser.svg"
+    },
+    "prettyName": "Dachser",
+    "region": "DEU, ESP"
+  },
+  "dachser": {
+    "colors": {
+      "primary": "#0F3F90",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dachser.svg"
+    },
+    "prettyName": "Dachser",
+    "region": "DEU, ESP"
+  },
+  "dachser-fr": {
+    "colors": {
+      "primary": "#0F3F90",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dachser.svg"
+    },
+    "prettyName": "Dachser",
+    "region": ""
+  },
+  "schenker-swe": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#FF0000",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/schenker.svg"
+    },
+    "prettyName": "DB Schenker",
+    "region": ""
+  },
+  "schenker": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#FF0000",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/schenker.svg"
+    },
+    "prettyName": "DB Schenker",
+    "region": "DEU, FIN, CHE, AUT, FRA, SWE"
+  },
+  "dbschenker-se": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "DBSCHENKER-SE",
+    "region": ""
+  },
+  "delhivery": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#FF1F35",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/delhivery.svg"
+    },
+    "prettyName": "Delhivery",
+    "region": "AUT, IND, GBR"
+  },
+  "deus": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#E60D28",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/deus.svg"
+    },
+    "prettyName": "DEUS Logistik",
+    "region": ""
+  },
+  "deutsche-post-packet": {
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFCC01",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/deutsche-post.svg"
+    },
+    "prettyName": "Deutsche Post",
+    "region": "FRA, NOR, DEU, GBR, ESP"
+  },
+  "dsv-deutsche-post": {
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFCC01",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/deutsche-post.svg"
+    },
+    "prettyName": "Deutsche Post",
+    "region": ""
+  },
+  "deutsche-post": {
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFCC01",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/deutsche-post.svg"
+    },
+    "prettyName": "Deutsche Post",
+    "region": "FRA, NOR, DEU, GBR, ESP"
+  },
+  "deutsche-post-brief": {
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFCC01",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/deutsche-post.svg"
+    },
+    "prettyName": "Deutsche Post Brief",
+    "region": ""
+  },
+  "deutsche-textil-logistik": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Deutsche Textil Logistik",
+    "region": ""
+  },
+  "dexpress": {
+    "colors": {
+      "primary": "#ab0101",
+      "secondary": "#a1a3a5"
+    },
+    "prettyName": "DExpress",
+    "region": ""
+  },
+  "dhl-ecommerce-eu": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dhl-germany.svg"
+    },
+    "prettyName": "DHL",
+    "region": "DEU, ESP, GBR"
+  },
+  "dhl-deliverit": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dhl-germany.svg"
+    },
+    "prettyName": "DHL",
+    "region": ""
+  },
+  "dhl-ecommerce": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dhl-germany.svg"
+    },
+    "prettyName": "DHL",
+    "region": "DEU, USA, ESP, GBR"
+  },
+  "dhl-benelux": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dhl-germany.svg"
+    },
+    "prettyName": "DHL",
+    "region": "DEU, NLD, FRA, CHE, SWE, AUT, PRT, GBR"
+  },
+  "shipcloud-dhl-germany": {
+    "colors": {
+      "primary": "#005596",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "DHL",
+    "region": ""
+  },
+  "dhl-germany": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dhl-germany.svg"
+    },
+    "prettyName": "DHL",
+    "region": "NLD, DEU, FRA, AUT, SWE, PRT, ESP"
+  },
+  "dsv-dhl-germany": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dhl-germany.svg"
+    },
+    "prettyName": "DHL",
+    "region": ""
+  },
+  "dhl-ecommerce-asia": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dhl-germany.svg"
+    },
+    "prettyName": "DHL",
+    "region": ""
+  },
+  "dhl": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dhl.svg"
+    },
+    "prettyName": "DHL Express",
+    "region": "FRA, DEU, NLD, USA, NOR, SWE, POL, PRT, CHE, MEX, GBR, ITA, FIN, AUT, LUX, ESP, DNK, BEL, ISR"
+  },
+  "flex-dhl": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "DHL Express",
+    "region": ""
+  },
+  "dhl-pieceid": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dhl-germany.svg"
+    },
+    "prettyName": "DHL Express",
+    "region": ""
+  },
+  "dhl-active-tracing": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dhl-germany.svg"
+    },
+    "prettyName": "DHL Freight",
+    "region": ""
+  },
+  "dhl-freight": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dhl-germany.svg"
+    },
+    "prettyName": "DHL Freight",
+    "region": "DEU, FRA, NOR, SWE, NLD"
+  },
+  "dhl-gm": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dhl-germany.svg"
+    },
+    "prettyName": "DHL Global Mail",
+    "region": ""
+  },
+  "dhl-global-mail": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "DHL-GLOBAL-MAIL",
+    "region": ""
+  },
+  "dhl-iberia": {
+    "colors": {
+      "primary": "#C60010",
+      "secondary": "#FDC718"
+    },
+    "prettyName": "DHL Iberia",
+    "region": "DEU, ESP, FRA, PRT"
+  },
+  "dhlparcel-uk": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04"
+    },
+    "prettyName": "DHL Parcel",
+    "region": "GBR"
+  },
+  "dsv-dhlparcel-uk": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04"
+    },
+    "prettyName": "DHL Parcel",
+    "region": ""
+  },
+  "iforce-ukmail": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dhl-germany.svg"
+    },
+    "prettyName": "DHL Parcel UK",
+    "region": ""
+  },
+  "ukmail": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dhl-germany.svg"
+    },
+    "prettyName": "DHL Parcel UK",
+    "region": "GBR, FRA"
+  },
+  "dhl-poland": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dhl-germany.svg"
+    },
+    "prettyName": "DHL Poland",
+    "region": "FRA, DEU, NLD, SWE, POL, CHE, ESP"
+  },
+  "dhl-germany-return": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "DHL Retoure",
+    "region": ""
+  },
+  "dhl-bulk": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dhl-germany.svg"
+    },
+    "prettyName": "DHL Sperrgut",
+    "region": ""
+  },
+  "dhl-unified": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "DHL-UNIFIED",
+    "region": "DEU, SWE, CHE, FIN, USA, ITA, DNK"
+  },
+  "dhl-warensendung": {
+    "colors": {
+      "primary": "#D40511",
+      "secondary": "#FFCD04",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dhl-germany.svg"
+    },
+    "prettyName": "DHL Warensendung",
+    "region": ""
+  },
+  "dicom": {
+    "colors": {
+      "primary": "#00359D",
+      "secondary": "#E5E5E5",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dicom.svg"
+    },
+    "prettyName": "DiCOM",
+    "region": ""
+  },
+  "dimotrans": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "DIMOTRANS",
+    "region": ""
+  },
+  "direct-couriers-nz": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "DIRECT-COURIERS-NZ",
+    "region": ""
+  },
+  "direct-couriers-au": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#FFA500"
+    },
+    "prettyName": "Direct Couriers",
+    "region": ""
+  },
+  "directlink": {
+    "colors": {
+      "primary": "#25335E",
+      "secondary": "#F4B8C1",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/directlink.svg"
+    },
+    "prettyName": "DirectLink",
+    "region": "GBR"
+  },
+  "doordash": {
+    "colors": {
+      "primary": "ff0000",
+      "secondary": "#000000"
+    },
+    "prettyName": "DoorDash",
+    "region": ""
+  },
+  "dpd-benelux": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C22838",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dpd-de.svg"
+    },
+    "prettyName": "DPD",
+    "region": "AUT"
+  },
+  "dpd": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C22838",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dpd-de.svg"
+    },
+    "prettyName": "DPD",
+    "region": "DEU, FRA, GBR, POL, PRT, USA, CHE, CZE, AUT, NLD, HUN"
+  },
+  "dpd-uk-local": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#0082CE",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/chronopost.svg"
+    },
+    "prettyName": "DPD",
+    "region": ""
+  },
+  "dpd-nl": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C22838",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dpd-de.svg"
+    },
+    "prettyName": "DPD",
+    "region": ""
+  },
+  "dpd-baltics": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C22838",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dpd-de.svg"
+    },
+    "prettyName": "DPD",
+    "region": "DEU"
+  },
+  "dpd-uk": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C22838",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dpd-de.svg"
+    },
+    "prettyName": "DPD",
+    "region": "FRA, GBR, DEU, PRT, USA, NLD"
+  },
+  "dpd-cz": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C22838",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dpd-de.svg"
+    },
+    "prettyName": "DPD",
+    "region": "DEU, CZE"
+  },
+  "dpd-de": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C22838",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dpd-de.svg"
+    },
+    "prettyName": "DPD",
+    "region": "DEU, POL, AUT, DEU, POL, AUT"
+  },
+  "dpd-fr": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C22838",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dpd-de.svg"
+    },
+    "prettyName": "DPD France",
+    "region": "DEU, FRA"
+  },
+  "dpd-ie": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C22838",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dpd-ie.svg"
+    },
+    "prettyName": "DPD Ireland",
+    "region": "DEU"
+  },
+  "dpd-poland": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C22838",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dpd-de.svg"
+    },
+    "prettyName": "DPD Poland",
+    "region": ""
+  },
+  "dpd-pl": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C22838",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dpd-de.svg"
+    },
+    "prettyName": "DPD Poland",
+    "region": "DEU, POL, CHE, GBR, AUT"
+  },
+  "dpd-de-return": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C22838",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dpd-de.svg"
+    },
+    "prettyName": "DPD Retoure",
+    "region": ""
+  },
+  "dpd-sk": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C22838",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dpd-de.svg"
+    },
+    "prettyName": "DPD Slovakia",
+    "region": ""
+  },
+  "dsv": {
+    "colors": {
+      "primary": "#002664",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dsv.svg"
+    },
+    "prettyName": "DSV",
+    "region": "DEU, GBR, NLD"
+  },
+  "dxdelivery-uk": {
+    "colors": {
+      "primary": "#18368E",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dxdelivery-uk.svg"
+    },
+    "prettyName": "DX",
+    "region": ""
+  },
+  "dxfreight-uk": {
+    "colors": {
+      "primary": "#18368E",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dxfreight-uk.svg"
+    },
+    "prettyName": "DX Freight",
+    "region": ""
+  },
+  "dynalogic": {
+    "colors": {
+      "primary": "#FAA842",
+      "secondary": "#A91B46",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/dynalogic.svg"
+    },
+    "prettyName": "Dynalogic",
+    "region": "DEU, NLD"
+  },
+  "earlybird-se": {
+    "colors": {
+      "primary": "#E17C50",
+      "secondary": "#FBEFE9",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/earlybird-se.svg"
+    },
+    "prettyName": "Early Bird",
+    "region": "SWE"
+  },
+  "ecms": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#FF0000"
+    },
+    "prettyName": "ECMS Global",
+    "region": ""
+  },
+  "ecomexpress-in": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C41424",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/ecomexpress-in.svg"
+    },
+    "prettyName": "Ecom Express",
+    "region": "IND"
+  },
+  "econt": {
+    "colors": {
+      "primary": "#ffffff",
+      "secondary": "#123363"
+    },
+    "prettyName": "Econt",
+    "region": "POL, BGR, DEU, GRC, ROU"
+  },
+  "ehlert": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#D70F1B",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/ehlert.svg"
+    },
+    "prettyName": "Ehlert",
+    "region": "DEU"
+  },
+  "emirates-post": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Emirates Post",
+    "region": ""
+  },
+  "emons": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "EMONS",
+    "region": "DEU"
+  },
+  "ems-vietnam": {
+    "colors": {
+      "primary": "#fff",
+      "secondary": "#ffc107"
+    },
+    "prettyName": "EMS Vietnam",
+    "region": ""
+  },
+  "englmayer": {
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFE43F",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/englmayer.svg"
+    },
+    "prettyName": "Englmayer",
+    "region": ""
+  },
+  "envialia-es": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#fe5900"
+    },
+    "prettyName": "Envialia -OnTime",
+    "region": ""
+  },
+  "epostglobal": {
+    "colors": {
+      "primary": "#1B2266",
+      "secondary": "#5BB428"
+    },
+    "prettyName": "ePost Global",
+    "region": "USA"
+  },
+  "estafeta": {
+    "colors": {
+      "primary": "#B02D24",
+      "secondary": "#E2E7EC"
+    },
+    "prettyName": "estafeta",
+    "region": "MEX"
+  },
+  "estes-express": {
+    "colors": {
+      "primary": "#FBD013",
+      "secondary": "#000000"
+    },
+    "prettyName": "ESTES",
+    "region": "USA"
+  },
+  "eushipments": {
+    "colors": {
+      "primary": "#0000FF",
+      "secondary": "#D3D3D3"
+    },
+    "prettyName": "Eushipments",
+    "region": "GBR"
+  },
+  "iforce-hermes-uk": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#0091CB",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/hermes-uk.svg"
+    },
+    "prettyName": "Evri",
+    "region": ""
+  },
+  "arvato-hermes-uk": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#0091CB",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/hermes-uk.svg"
+    },
+    "prettyName": "Evri",
+    "region": ""
+  },
+  "hermes-uk": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#0091CB",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/hermes-uk.svg"
+    },
+    "prettyName": "Evri",
+    "region": "DEU, GBR, FRA, USA"
+  },
+  "exelot": {
+    "colors": {
+      "primary": "#fffff9",
+      "secondary": "#1a4377"
+    },
+    "prettyName": "Exelot",
+    "region": ""
+  },
+  "iforce-expertlogistics-uk": {
+    "colors": {
+      "primary": "#F19937",
+      "secondary": "#4E8880"
+    },
+    "prettyName": "Expert Logistics",
+    "region": ""
+  },
+  "expressone-hu": {
+    "colors": {
+      "primary": "#2B2A28",
+      "secondary": "#F37C2D",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/expressone-hu.svg"
+    },
+    "prettyName": "Express One",
+    "region": ""
+  },
+  "fancourier-ro": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#196994",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/fancourier-ro.svg"
+    },
+    "prettyName": "FAN Courier",
+    "region": ""
+  },
+  "fastest-it": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#6C7A89"
+    },
+    "prettyName": "Fast.Est",
+    "region": ""
+  },
+  "fedex": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#4D148C",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/fedex.svg"
+    },
+    "prettyName": "FedEx",
+    "region": "USA, FRA, DEU, NLD, NOR, POL, PRT, MEX, GBR, CHE, ITA, ESP, ISR, CAN, SWE"
+  },
+  "fedex-express": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#4D148C",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/fedex.svg"
+    },
+    "prettyName": "FedEx Express",
+    "region": ""
+  },
+  "flex-fedex": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "FLEX-FEDEX",
+    "region": ""
+  },
+  "fedex-fims": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#4D148C",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/fedex.svg"
+    },
+    "prettyName": "FedEx International MailService",
+    "region": "USA"
+  },
+  "fenthols": {
+    "colors": {
+      "primary": "#004A99",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/fenthols.svg"
+    },
+    "prettyName": "Fenthols / Raben",
+    "region": ""
+  },
+  "fercam": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#8C9195"
+    },
+    "prettyName": "FERCAM",
+    "region": ""
+  },
+  "ferrari": {
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#4ba8c9"
+    },
+    "prettyName": "Ferrari",
+    "region": "PRT, DEU"
+  },
+  "fleetoptics-ca": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#EE2B7B"
+    },
+    "prettyName": "FleetOptics",
+    "region": "USA"
+  },
+  "flixlog": {
+    "colors": {
+      "primary": "#FFFF00",
+      "secondary": "#000000"
+    },
+    "prettyName": "Flixlog",
+    "region": "DEU"
+  },
+  "fouvet-mercier-fr": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#FF364D",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/fouvet-mercier-fr.svg"
+    },
+    "prettyName": "Fouvet Mercier",
+    "region": ""
+  },
+  "foxpost": {
+    "colors": {
+      "primary": "#fc0821",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "Foxpost",
+    "region": "POL, HUN"
+  },
+  "charles-andre-fr": {
+    "colors": {
+      "primary": "#FFFDFA",
+      "secondary": "#1D272E",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/charles-andre-fr.svg"
+    },
+    "prettyName": "GCA",
+    "region": ""
+  },
+  "gebr-weiss": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#FF6602",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/gebr-weiss.svg"
+    },
+    "prettyName": "Gebr. Weiss",
+    "region": ""
+  },
+  "geis-pl": {
+    "colors": {
+      "primary": "#0C547A",
+      "secondary": "#FFDC3D",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/geis-de.svg"
+    },
+    "prettyName": "Geis",
+    "region": ""
+  },
+  "geis-sk": {
+    "colors": {
+      "primary": "#0C547A",
+      "secondary": "#FFDC3D",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/geis-de.svg"
+    },
+    "prettyName": "Geis",
+    "region": ""
+  },
+  "geis-de": {
+    "colors": {
+      "primary": "#0C547A",
+      "secondary": "#FFDC3D",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/geis-de.svg"
+    },
+    "prettyName": "Geis",
+    "region": ""
+  },
+  "geis": {
+    "colors": {
+      "primary": "#0C547A",
+      "secondary": "#FFDC3D",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/geis-de.svg"
+    },
+    "prettyName": "Geis",
+    "region": ""
+  },
+  "general-overnight-ch": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "GENERAL-OVERNIGHT-CH",
+    "region": ""
+  },
+  "geniki-gr": {
+    "colors": {
+      "primary": "#ffffff",
+      "secondary": "#122c63"
+    },
+    "prettyName": "Geniki",
+    "region": ""
+  },
+  "geodis-fr": {
+    "colors": {
+      "primary": "#3200E6",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/geodis-fr.svg"
+    },
+    "prettyName": "Geodis France",
+    "region": ""
+  },
+  "girard-agediss": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#E90035",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/girard-agediss.svg"
+    },
+    "prettyName": "Girard Agediss",
+    "region": "FRA"
+  },
+  "glocally-de": {
+    "colors": {
+      "primary": "#14d4a4",
+      "secondary": "#ffffff"
+    },
+    "prettyName": "Glocally",
+    "region": ""
+  },
+  "bracchi-gls-it": {
+    "colors": {
+      "primary": "#EEB743",
+      "secondary": "#192253"
+    },
+    "prettyName": "GLS",
+    "region": "DEU"
+  },
+  "gls-hu": {
+    "colors": {
+      "primary": "#EEB743",
+      "secondary": "#192253",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/gls.svg"
+    },
+    "prettyName": "GLS",
+    "region": "DEU"
+  },
+  "gls": {
+    "colors": {
+      "primary": "#EEB743",
+      "secondary": "#192253",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/gls.svg"
+    },
+    "prettyName": "GLS",
+    "region": "DEU, FRA, NLD, SWE, AUT, POL, USA, ITA, ESP, GBR, CHE"
+  },
+  "gls-portugal": {
+    "colors": {
+      "primary": "#EEB743",
+      "secondary": "#192253",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/gls-spain.svg"
+    },
+    "prettyName": "GLS",
+    "region": "ESP"
+  },
+  "gls-hr": {
+    "colors": {
+      "primary": "#EEB743",
+      "secondary": "#192253",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/gls.svg"
+    },
+    "prettyName": "GLS",
+    "region": ""
+  },
+  "gls-si": {
+    "colors": {
+      "primary": "#EEB743",
+      "secondary": "#192253",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/gls.svg"
+    },
+    "prettyName": "GLS",
+    "region": ""
+  },
+  "gls-ro": {
+    "colors": {
+      "primary": "#EEB743",
+      "secondary": "#192253",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/gls.svg"
+    },
+    "prettyName": "GLS",
+    "region": ""
+  },
+  "gls-us": {
+    "colors": {
+      "primary": "#EEB743",
+      "secondary": "#192253",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/gls.svg"
+    },
+    "prettyName": "GLS",
+    "region": "USA, CHE"
+  },
+  "gls-netherlands": {
+    "colors": {
+      "primary": "#EEB743",
+      "secondary": "#192253",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/gls.svg"
+    },
+    "prettyName": "GLS",
+    "region": ""
+  },
+  "gls-spain": {
+    "colors": {
+      "primary": "#EEB743",
+      "secondary": "#192253",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/gls-spain.svg"
+    },
+    "prettyName": "GLS",
+    "region": "DEU, ESP, FRA"
+  },
+  "gls-italy": {
+    "colors": {
+      "primary": "#EEB743",
+      "secondary": "#192253",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/gls-italy.svg"
+    },
+    "prettyName": "GLS",
+    "region": "FRA, DEU, ITA, GBR"
+  },
+  "general-overnight": {
+    "colors": {
+      "primary": "#A7123A",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/general-overnight.svg"
+    },
+    "prettyName": "GO!",
+    "region": ""
+  },
+  "goi-es": {
+    "colors": {
+      "primary": "#e74b48",
+      "secondary": "#1bb6c0"
+    },
+    "prettyName": "Goi",
+    "region": "ESP"
+  },
+  "guillen-es": {
+    "colors": {
+      "primary": "#1D7786",
+      "secondary": "#E6E9E8"
+    },
+    "prettyName": "Guillén",
+    "region": ""
+  },
+  "guisnel-fr": {
+    "colors": {
+      "primary": "#004D93",
+      "secondary": "#B1B1B1",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/guisnel-fr.svg"
+    },
+    "prettyName": "Guisnel",
+    "region": ""
+  },
+  "gw-world": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#ff6600",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/gw-world.svg"
+    },
+    "prettyName": "GW World",
+    "region": ""
+  },
+  "hansetrans-de": {
+    "colors": {
+      "primary": "#FFED00",
+      "secondary": "#68B022",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/hansetrans-de.svg"
+    },
+    "prettyName": "Hansetrans",
+    "region": "DEU"
+  },
+  "hauptvogel": {
+    "colors": {
+      "primary": "#DFDFDF",
+      "secondary": "#FDC711",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/hauptvogel.svg"
+    },
+    "prettyName": "Hauptvogel",
+    "region": ""
+  },
+  "hds-australia": {
+    "colors": {
+      "primary": "#87CEEB",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/hds-australia.svg"
+    },
+    "prettyName": "HDS Australia",
+    "region": ""
+  },
+  "hellmann": {
+    "colors": {
+      "primary": "#E22219",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/hellmann.svg"
+    },
+    "prettyName": "Hellmann",
+    "region": "DEU"
+  },
+  "heppner": {
+    "colors": {
+      "primary": "#084093",
+      "secondary": "#6BB933",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/heppner.svg"
+    },
+    "prettyName": "Heppner",
+    "region": ""
+  },
+  "hepsijet": {
+    "colors": {
+      "primary": "#EFEDED",
+      "secondary": "#F7612D",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/hepsijet.svg"
+    },
+    "prettyName": "hepsiJET",
+    "region": ""
+  },
+  "hermes-de": {
+    "colors": {
+      "primary": "#4298CE",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/hermes-de.svg"
+    },
+    "prettyName": "Hermes",
+    "region": "DEU, FRA"
+  },
+  "hermes-at": {
+    "colors": {
+      "primary": "#4298CE",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/hermes-at.svg"
+    },
+    "prettyName": "Hermes",
+    "region": ""
+  },
+  "hes": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#0D92C6",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/hes.svg"
+    },
+    "prettyName": "Hermes Einrichtungs-Service",
+    "region": ""
+  },
+  "heyworld": {
+    "colors": {
+      "primary": "#5CA7EF",
+      "secondary": "#848382",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/heyworld.svg"
+    },
+    "prettyName": "Heyworld",
+    "region": "DEU"
+  },
+  "zalora": {
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#ffffff"
+    },
+    "prettyName": "H&M",
+    "region": ""
+  },
+  "hongkong-post": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Hongkong Post",
+    "region": ""
+  },
+  "hrvatska-posta": {
+    "colors": {
+      "primary": "#222323",
+      "secondary": "#F4D247"
+    },
+    "prettyName": "Hrvatska pošta",
+    "region": ""
+  },
+  "croatian-post": {
+    "colors": {
+      "primary": "#222323",
+      "secondary": "#F4D247"
+    },
+    "prettyName": "Hrvatska pošta",
+    "region": "SVN, DEU"
+  },
+  "hub-group": {
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/hub-group.svg"
+    },
+    "prettyName": "Hub Group",
+    "region": "USA"
+  },
+  "ibring": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#009FE2",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "i-bring",
+    "region": ""
+  },
+  "ids": {
+    "colors": {
+      "primary": "#0063A7",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/ids.svg"
+    },
+    "prettyName": "IDS",
+    "region": "DEU, NLD"
+  },
+  "igs-logistics": {
+    "colors": {
+      "primary": "#e13619",
+      "secondary": "#ffffff"
+    },
+    "prettyName": "IGS",
+    "region": ""
+  },
+  "ilyang": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#5EC8DF"
+    },
+    "prettyName": "Ilyang Express",
+    "region": ""
+  },
+  "impackta": {
+    "colors": {
+      "primary": "#1bc0ee",
+      "secondary": "#f2d243",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/impackta.svg"
+    },
+    "prettyName": "Impackta",
+    "region": "FRA"
+  },
+  "india-post": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "India Post",
+    "region": ""
+  },
+  "inntralog": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#162882",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/inntralog.svg"
+    },
+    "prettyName": "InntraLog",
+    "region": ""
+  },
+  "inpost-paczkomaty": {
+    "colors": {
+      "primary": "#404041",
+      "secondary": "#FBCA04",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/inpost-paczkomaty.svg"
+    },
+    "prettyName": "Inpost",
+    "region": "DEU, NLD, POL, CHE, SWE"
+  },
+  "inpost-it": {
+    "colors": {
+      "primary": "#ffcd00",
+      "secondary": "#000000"
+    },
+    "prettyName": "Inpost IT",
+    "region": "GBR"
+  },
+  "inpost-uk": {
+    "colors": {
+      "primary": "#4D4B4D",
+      "secondary": "#FCCA1E",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/inpost-uk.svg"
+    },
+    "prettyName": "Inpost UK",
+    "region": "GBR"
+  },
+  "instabox-de": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Instabox",
+    "region": ""
+  },
+  "instabox": {
+    "colors": {
+      "primary": "#FFE4E6",
+      "secondary": "#FF3E3E",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/instabox-se.svg"
+    },
+    "prettyName": "Instabox",
+    "region": "SWE, DEU, NLD, FRA, NOR, GBR"
+  },
+  "instabox-nl": {
+    "colors": {
+      "primary": "#FFE4E6",
+      "secondary": "#FF3E3E",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/instabox-se.svg"
+    },
+    "prettyName": "Instabox",
+    "region": ""
+  },
+  "instabox-se": {
+    "colors": {
+      "primary": "#FFE4E6",
+      "secondary": "#FF3E3E",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/instabox-se.svg"
+    },
+    "prettyName": "Instabox",
+    "region": "SWE, DEU, NLD"
+  },
+  "intime-express": {
+    "colors": {
+      "primary": "#F5F5F5",
+      "secondary": "#A22722"
+    },
+    "prettyName": "In Time Express",
+    "region": "DEU"
+  },
+  "invio-it": {
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#D3D3D3"
+    },
+    "prettyName": "Invio",
+    "region": "DEU"
+  },
+  "israel-post": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Israel Post",
+    "region": ""
+  },
+  "itella": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Itella",
+    "region": ""
+  },
+  "janio": {
+    "colors": {
+      "primary": "#060493",
+      "secondary": "#ffffff"
+    },
+    "prettyName": "Janio",
+    "region": "AUT, CHE"
+  },
+  "japan-post": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Japan Post",
+    "region": ""
+  },
+  "jcl-de": {
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#E8A239",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/jcl-de.svg"
+    },
+    "prettyName": "JCL",
+    "region": ""
+  },
+  "karivandy": {
+    "colors": {
+      "primary": "#000080",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "Karivandy",
+    "region": ""
+  },
+  "karl-juergensen": {
+    "colors": {
+      "primary": "#00407A",
+      "secondary": "#1FC2ED"
+    },
+    "prettyName": "Karl Jürgensen",
+    "region": ""
+  },
+  "kerry-express": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#FFA500"
+    },
+    "prettyName": "Kerry Express",
+    "region": ""
+  },
+  "kissel-spedition": {
+    "colors": {
+      "primary": "#D92E20",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/kissel-spedition.svg"
+    },
+    "prettyName": "Kissel Spedition",
+    "region": ""
+  },
+  "koelner-flitzer": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#E6007E",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/koelner-flitzer.svg"
+    },
+    "prettyName": "Kölner Flitzer",
+    "region": ""
+  },
+  "korea-post": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Korea Post",
+    "region": ""
+  },
+  "krage-gerloff": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#FF0000"
+    },
+    "prettyName": "Krage Gerloff",
+    "region": ""
+  },
+  "ks-logistic-services": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#D53345",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/ks-logistic-services.svg"
+    },
+    "prettyName": "KS Log",
+    "region": ""
+  },
+  "kn": {
+    "colors": {
+      "primary": "#072B52",
+      "secondary": "#56B6E9",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/kn.svg"
+    },
+    "prettyName": "Kühne+Nagel",
+    "region": "FRA, DEU"
+  },
+  "kn-france": {
+    "colors": {
+      "primary": "#0C1F43",
+      "secondary": "#48A8E3",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/kn-france.svg"
+    },
+    "prettyName": "Kühne+Nagel France",
+    "region": "FRA"
+  },
+  "lagermax": {
+    "colors": {
+      "primary": "#005596",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "Lagermax",
+    "region": ""
+  },
+  "landmark-global": {
+    "colors": {
+      "primary": "#F12A3E",
+      "secondary": "#1F3A4E",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/landmark-global.svg"
+    },
+    "prettyName": "Landmark Global",
+    "region": ""
+  },
+  "colissimo": {
+    "colors": {
+      "primary": "#243B87",
+      "secondary": "#F7CD46",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/colissimo.svg"
+    },
+    "prettyName": "La Poste",
+    "region": ""
+  },
+  "lasership": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#CE2127",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/lasership.svg"
+    },
+    "prettyName": "LaserShip",
+    "region": "GBR"
+  },
+  "leen-menken": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Leen Menken",
+    "region": ""
+  },
+  "liefergrun": {
+    "colors": {
+      "primary": "#094350",
+      "secondary": "#ffffff"
+    },
+    "prettyName": "Liefergrün",
+    "region": "DEU"
+  },
+  "logoix": {
+    "colors": {
+      "primary": "#5a5a5a",
+      "secondary": "#eb5c0e"
+    },
+    "prettyName": "LogoiX",
+    "region": "FRA, DEU"
+  },
+  "logwin-de": {
+    "colors": {
+      "primary": "#25477E",
+      "secondary": "#85B621"
+    },
+    "prettyName": "Logwin",
+    "region": ""
+  },
+  "lotte": {
+    "colors": {
+      "primary": "#DA291C",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "Lotte",
+    "region": "USA"
+  },
+  "lts-at": {
+    "colors": {
+      "primary": "#1D5090",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "LTS Austria",
+    "region": ""
+  },
+  "b2ce": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#37A1CB"
+    },
+    "prettyName": "Maersk / B2C Europe",
+    "region": ""
+  },
+  "magyar-posta": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Magyar Posta",
+    "region": ""
+  },
+  "mail-americas": {
+    "colors": {
+      "primary": "#AAFF00",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "Mail Americas",
+    "region": "ESP"
+  },
+  "malta-post": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "MaltaPost",
+    "region": ""
+  },
+  "mdg-italy": {
+    "colors": {
+      "primary": "#ffffff",
+      "secondary": "#005fa9"
+    },
+    "prettyName": "MDG",
+    "region": ""
+  },
+  "mdl-spain": {
+    "colors": {
+      "primary": "#161616",
+      "secondary": "#4896CD",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/mdl-spain.svg"
+    },
+    "prettyName": "MDL Spain",
+    "region": ""
+  },
+  "menzies-uk": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#0A7C5E"
+    },
+    "prettyName": "Menzies",
+    "region": ""
+  },
+  "meteorspace-2mh": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "METEORSPACE-2MH",
+    "region": "DEU"
+  },
+  "method-es": {
+    "colors": {
+      "primary": "#006400",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "Method",
+    "region": "ESP"
+  },
+  "miele-carrier": {
+    "colors": {
+      "primary": "#8C0016",
+      "secondary": "#ffffff"
+    },
+    "prettyName": "Miele Carrier",
+    "region": ""
+  },
+  "mondial": {
+    "colors": {
+      "primary": "#CA0047",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/mondial.svg"
+    },
+    "prettyName": "Mondial Relay",
+    "region": "FRA, ESP, NLD, DEU, CHE, BEL"
+  },
+  "mrw-spain": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#163782",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/mrw-spain.svg"
+    },
+    "prettyName": "MRW",
+    "region": ""
+  },
+  "nacex": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#ff5000",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/nacex.svg"
+    },
+    "prettyName": "Nacex",
+    "region": "FRA, DEU"
+  },
+  "naqel": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#022e5f"
+    },
+    "prettyName": "Naqel Express",
+    "region": ""
+  },
+  "nexive-it": {
+    "colors": {
+      "primary": "#1D3A8F",
+      "secondary": "#F8AD00"
+    },
+    "prettyName": "Nexive",
+    "region": ""
+  },
+  "nightstar": {
+    "colors": {
+      "primary": "#FFCB00",
+      "secondary": "#004170",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/nightstar.svg"
+    },
+    "prettyName": "Night Star Express",
+    "region": ""
+  },
+  "nocniexpres": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#30a4e7",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/nocniexpres.svg"
+    },
+    "prettyName": "Noční Expres",
+    "region": ""
+  },
+  "ascherl": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#0A304B",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/ascherl.svg"
+    },
+    "prettyName": "Noerpel",
+    "region": ""
+  },
+  "normatrans-fr": {
+    "colors": {
+      "primary": "#CD002B",
+      "secondary": "#D9D9D9",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/normatrans-fr.svg"
+    },
+    "prettyName": "Normatrans",
+    "region": ""
+  },
+  "nalgroup": {
+    "colors": {
+      "primary": "#A52A2A",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "North American Logistics",
+    "region": ""
+  },
+  "nox": {
+    "colors": {
+      "primary": "#EBF900",
+      "secondary": "#000000",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/nox.svg"
+    },
+    "prettyName": "nox",
+    "region": ""
+  },
+  "omniparcel": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#404041",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/omniparcel.svg"
+    },
+    "prettyName": "Omniparcel",
+    "region": "GBR"
+  },
+  "ontrac": {
+    "colors": {
+      "primary": "#FFD206",
+      "secondary": "#003E7E",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/ontrac.svg"
+    },
+    "prettyName": "OnTrac",
+    "region": ""
+  },
+  "osm": {
+    "colors": {
+      "primary": "#a2002b",
+      "secondary": "#f3f3f3",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/osm.svg"
+    },
+    "prettyName": "OSM Worldwide",
+    "region": ""
+  },
+  "p2p": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#5F4C99",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/p2p.svg"
+    },
+    "prettyName": "P2P",
+    "region": ""
+  },
+  "paack": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#169FFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/paack.svg"
+    },
+    "prettyName": "Paack",
+    "region": "PRT, ESP, FRA, GBR"
+  },
+  "packeta": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#AB2D19",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/packeta.svg"
+    },
+    "prettyName": "Packeta",
+    "region": "DEU, POL, GBR"
+  },
+  "palletways": {
+    "colors": {
+      "primary": "#00008B",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "Palletways",
+    "region": "GBR"
+  },
+  "pandion": {
+    "colors": {
+      "primary": "#ed428b",
+      "secondary": "#333d46"
+    },
+    "prettyName": "Pandion Pro",
+    "region": "GBR"
+  },
+  "paquetexpress": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#0D294F"
+    },
+    "prettyName": "Paquetexpress",
+    "region": "MEX"
+  },
+  "iforce-parcelforce": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#A92216",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/parcelforce.svg"
+    },
+    "prettyName": "Parcelforce",
+    "region": ""
+  },
+  "parcelforce": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#A92216",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/parcelforce.svg"
+    },
+    "prettyName": "Parcelforce",
+    "region": "FRA, GBR"
+  },
+  "parxl": {
+    "colors": {
+      "primary": "##00649E",
+      "secondary": "#ffffff"
+    },
+    "prettyName": "Parxl",
+    "region": "GBR"
+  },
+  "petersen-mordhorst": {
+    "colors": {
+      "primary": "#003C89",
+      "secondary": "#FFB833",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/petersen-mordhorst.svg"
+    },
+    "prettyName": "Petersen Mordhorst / IDS",
+    "region": ""
+  },
+  "pilot": {
+    "colors": {
+      "primary": "#F67B28",
+      "secondary": "#DDDDDD",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/pilot.svg"
+    },
+    "prettyName": "Pilot",
+    "region": ""
+  },
+  "pitney-bowes": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#385CAD"
+    },
+    "prettyName": "Pitney Bowes",
+    "region": "USA"
+  },
+  "planzer": {
+    "colors": {
+      "primary": "#8D1423",
+      "secondary": "#FAECC5",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/planzer.svg"
+    },
+    "prettyName": "Planzer",
+    "region": ""
+  },
+  "poczta-polska": {
+    "colors": {
+      "primary": "#f7eb01",
+      "secondary": "#e01e21",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/poczta-polska.svg"
+    },
+    "prettyName": "Poczta Polska",
+    "region": "DEU, POL"
+  },
+  "pony-express-ru": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Pony Express",
+    "region": ""
+  },
+  "pos-malaysia": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Pos Malaysia",
+    "region": ""
+  },
+  "slovenian-post": {
+    "colors": {
+      "primary": "#1E1D1D",
+      "secondary": "#FFCF39",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/slovenian-post.svg"
+    },
+    "prettyName": "Pošta Slovenije",
+    "region": "SVN, AUT, DEU"
+  },
+  "austrian-post": {
+    "colors": {
+      "primary": "#1A1A18",
+      "secondary": "#FFDD00",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/austrian-post.svg"
+    },
+    "prettyName": "Post Austria",
+    "region": "FRA, DEU, AUT, ESP"
+  },
+  "arvato-austrian-post": {
+    "colors": {
+      "primary": "#1A1A18",
+      "secondary": "#FFDD00",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/austrian-post.svg"
+    },
+    "prettyName": "Post Austria",
+    "region": ""
+  },
+  "sda": {
+    "colors": {
+      "primary": "#0047BB",
+      "secondary": "#EEDC01",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/sda.svg"
+    },
+    "prettyName": "Poste Italiane",
+    "region": "FRA, DEU, ITA, NLD, AUT, GBR"
+  },
+  "posti": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#3E4A55"
+    },
+    "prettyName": "Posti",
+    "region": "SWE, FIN, DEU"
+  },
+  "post-kz": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Post.kz",
+    "region": ""
+  },
+  "post-luxembourg": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "POST Luxembourg",
+    "region": ""
+  },
+  "arvato-post-nl": {
+    "colors": {
+      "primary": "#001D86",
+      "secondary": "#F08101",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/post-nl.svg"
+    },
+    "prettyName": "PostNL",
+    "region": ""
+  },
+  "post-nl": {
+    "colors": {
+      "primary": "#001D86",
+      "secondary": "#F08101",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/post-nl.svg"
+    },
+    "prettyName": "PostNL",
+    "region": "NLD, DEU, SWE, BEL, NOR, ESP, FRA"
+  },
+  "dsv-postnord": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#00A0D6",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/postnord.svg"
+    },
+    "prettyName": "PostNord",
+    "region": ""
+  },
+  "postnord": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#00A0D6",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/postnord.svg"
+    },
+    "prettyName": "PostNord",
+    "region": "DEU, NOR, SWE, NLD, DNK, FIN, ESP, GBR"
+  },
+  "arvato-postnord": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#00A0D6",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/postnord.svg"
+    },
+    "prettyName": "PostNord",
+    "region": ""
+  },
+  "posturinn": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Pósturinn",
+    "region": ""
+  },
+  "ppjensen-dk": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#00072D",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/pp-jensen-dk.svg"
+    },
+    "prettyName": "PP Jensen",
+    "region": ""
+  },
+  "ppl": {
+    "colors": {
+      "primary": "#004C8D",
+      "secondary": "#AFDAEB",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/ppl.svg"
+    },
+    "prettyName": "PPL",
+    "region": "DEU, CZE, HUN, SVN, SVK, POL, PRT"
+  },
+  "procarrier": {
+    "colors": {
+      "primary": "#66B3AC",
+      "secondary": "#2B2A5E"
+    },
+    "prettyName": "ProCarrier",
+    "region": ""
+  },
+  "pcg": {
+    "colors": {
+      "primary": "#E0115F",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "Product Care Group",
+    "region": ""
+  },
+  "purolator": {
+    "colors": {
+      "primary": "#E7191C",
+      "secondary": "#162C82",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/purolator.svg"
+    },
+    "prettyName": "Purolator",
+    "region": "USA, NLD"
+  },
+  "qatar-post": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Qatar Post",
+    "region": ""
+  },
+  "quickpac": {
+    "colors": {
+      "primary": "#5dab3e",
+      "secondary": "#aca49c"
+    },
+    "prettyName": "Quickpac",
+    "region": ""
+  },
+  "qx": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#BF112A",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/qx.svg"
+    },
+    "prettyName": "QX",
+    "region": ""
+  },
+  "raben": {
+    "colors": {
+      "primary": "#E40022",
+      "secondary": "#F7F7F7",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/raben.svg"
+    },
+    "prettyName": "Raben",
+    "region": ""
+  },
+  "redur": {
+    "colors": {
+      "primary": "#A59445",
+      "secondary": "#2F4737"
+    },
+    "prettyName": "Redur",
+    "region": ""
+  },
+  "relais-colis": {
+    "colors": {
+      "primary": "#EB093E",
+      "secondary": "#E0E0E0",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/relais-colis.svg"
+    },
+    "prettyName": "Relais Colis",
+    "region": ""
+  },
+  "relay-technologies": {
+    "colors": {
+      "primary": "#ffffff",
+      "secondary": "#122c63"
+    },
+    "prettyName": "Relay",
+    "region": "GBR"
+  },
+  "rhenus-home-delivery": {
+    "colors": {
+      "primary": "#273A92",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/rhenus-home-delivery.svg"
+    },
+    "prettyName": "Rhenus",
+    "region": ""
+  },
+  "rhenus": {
+    "colors": {
+      "primary": "#004996",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "Rhenus",
+    "region": "DEU"
+  },
+  "rhenus-home-delivery-uk": {
+    "colors": {
+      "primary": "#273A92",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "Rhenus",
+    "region": ""
+  },
+  "rieck": {
+    "colors": {
+      "primary": "#FFD902",
+      "secondary": "#0B48A2",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/rieck.svg"
+    },
+    "prettyName": "Rieck / IDS",
+    "region": ""
+  },
+  "robert-mueller": {
+    "colors": {
+      "primary": "#FBBB00",
+      "secondary": "#1F51A2",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/robert-mueller.svg"
+    },
+    "prettyName": "Robert Müller",
+    "region": ""
+  },
+  "royalmail": {
+    "colors": {
+      "primary": "#FCD246",
+      "secondary": "#FE000D",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/royalmail.svg"
+    },
+    "prettyName": "Royal Mail",
+    "region": "DEU, GBR, NLD, ESP"
+  },
+  "iforce-royalmail": {
+    "colors": {
+      "primary": "#FCD246",
+      "secondary": "#FE000D",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/royalmail.svg"
+    },
+    "prettyName": "Royal Mail",
+    "region": ""
+  },
+  "russian-post": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#2055A6",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/russian-post.svg"
+    },
+    "prettyName": "Russian Post",
+    "region": "RUS"
+  },
+  "safexpress": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#60B357"
+    },
+    "prettyName": "Safexpress",
+    "region": ""
+  },
+  "sagawa-express": {
+    "colors": {
+      "primary": "#2D338E",
+      "secondary": "#A4A4A4",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/sagawa-express.svg"
+    },
+    "prettyName": "Sagawa Express",
+    "region": ""
+  },
+  "sameday": {
+    "colors": {
+      "primary": "#fc0821",
+      "secondary": "#a59e9e"
+    },
+    "prettyName": "Sameday",
+    "region": "POL"
+  },
+  "saudi-post": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Saudi Post",
+    "region": ""
+  },
+  "sedilog": {
+    "colors": {
+      "primary": "#EBEBEB",
+      "secondary": "#495056",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/sedilog.svg"
+    },
+    "prettyName": "sedilog",
+    "region": ""
+  },
+  "sending": {
+    "colors": {
+      "primary": "#0000FF",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "Sending",
+    "region": ""
+  },
+  "seur": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#FF0000",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/seur.svg"
+    },
+    "prettyName": "SEUR",
+    "region": ""
+  },
+  "sf-express": {
+    "colors": {
+      "primary": "#A59445",
+      "secondary": "#2F4737"
+    },
+    "prettyName": "SF Express",
+    "region": ""
+  },
+  "singapore-post": {
+    "colors": {
+      "primary": "#fff",
+      "secondary": "#c31225"
+    },
+    "prettyName": "Singapore Post",
+    "region": "ITA, GBR"
+  },
+  "skynet": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#F53017",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/skynet.svg"
+    },
+    "prettyName": "Skynet",
+    "region": "GBR"
+  },
+  "slovakia-parcel": {
+    "colors": {
+      "primary": "#3D3D3D",
+      "secondary": "#DE8430"
+    },
+    "prettyName": "Slovak Parcel Service",
+    "region": ""
+  },
+  "slovakia-post": {
+    "colors": {
+      "primary": "#003A70",
+      "secondary": "#FFB933",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/slovakia-post.svg"
+    },
+    "prettyName": "Slovenská Pošta",
+    "region": "DEU, SVK"
+  },
+  "sako-de": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#113D62",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/sako-de.svg"
+    },
+    "prettyName": "SM-Transporte",
+    "region": "DEU"
+  },
+  "spedition": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#aaa",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/spedition.svg"
+    },
+    "prettyName": "Spedition",
+    "region": "DEU"
+  },
+  "roth-de": {
+    "colors": {
+      "primary": "#DA251D",
+      "secondary": "#F6F6F6",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/roth-de.svg"
+    },
+    "prettyName": "Spedition Roth",
+    "region": ""
+  },
+  "sped-zufall": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#0072B4",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/sped-zufall.svg"
+    },
+    "prettyName": "Spedition Zufall",
+    "region": ""
+  },
+  "speedy": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C22838"
+    },
+    "prettyName": "Speedy",
+    "region": "POL"
+  },
+  "spring": {
+    "colors": {
+      "primary": "#152F7C",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "Spring",
+    "region": "ESP, GBR, USA"
+  },
+  "spring-gds": {
+    "colors": {
+      "primary": "##FFA500",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "Spring GDS",
+    "region": "USA"
+  },
+  "sprint-logistics": {
+    "colors": {
+      "primary": "#6495ED",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "Sprint Logistics",
+    "region": "DEU"
+  },
+  "starlinks": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#1f6a4a"
+    },
+    "prettyName": "Starlinks",
+    "region": "GBR"
+  },
+  "startrack-au": {
+    "colors": {
+      "primary": "#133663",
+      "secondary": "#4EABEA"
+    },
+    "prettyName": "StarTrack",
+    "region": "AUS"
+  },
+  "steadfast-au": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#000000"
+    },
+    "prettyName": "SteadFast",
+    "region": ""
+  },
+  "storebox-de": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#63B43C"
+    },
+    "prettyName": "Storebox",
+    "region": ""
+  },
+  "streck-ch": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Streck Transport",
+    "region": ""
+  },
+  "stuart": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#105285"
+    },
+    "prettyName": "Stuart",
+    "region": ""
+  },
+  "suedmail": {
+    "colors": {
+      "primary": "#0069AD",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/suedmail.svg"
+    },
+    "prettyName": "südmail",
+    "region": "DEU"
+  },
+  "arvato-swiss-post": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#FF0000",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/swiss-post.svg"
+    },
+    "prettyName": "Swiss Post",
+    "region": ""
+  },
+  "swiss-post": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#FF0000",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/swiss-post.svg"
+    },
+    "prettyName": "Swiss Post",
+    "region": "DEU, CHE, AUT, GBR, ESP, NLD"
+  },
+  "swiss-post-installation": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#FF0000",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/swiss-post.svg"
+    },
+    "prettyName": "Swiss Post 2 Man Handling",
+    "region": ""
+  },
+  "swiss-post-cargo": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#FF0000",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/swiss-post.svg"
+    },
+    "prettyName": "Swiss Post Cargo",
+    "region": ""
+  },
+  "swoopin": {
+    "colors": {
+      "primary": "#ffffff",
+      "secondary": "#E8C6CF"
+    },
+    "prettyName": "Swoopin",
+    "region": "FRA"
+  },
+  "taskrabbit-us": {
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/teamo-taskrabbit-us.svg"
+    },
+    "prettyName": "TaskRabbit US",
+    "region": ""
+  },
+  "tck-express": {
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#ADD8E6"
+    },
+    "prettyName": "TCK Express",
+    "region": "AUT"
+  },
+  "team-c": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#EE2A30"
+    },
+    "prettyName": "Team C",
+    "region": ""
+  },
+  "tge": {
+    "colors": {
+      "primary": "#05472A",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "Team Global Express",
+    "region": "CHE, AUT"
+  },
+  "thailand-post": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Thailand Post",
+    "region": ""
+  },
+  "tipsa": {
+    "colors": {
+      "primary": "#001B6F",
+      "secondary": "#F7F7F8",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/tipsa.svg"
+    },
+    "prettyName": "TIPSA",
+    "region": "FRA"
+  },
+  "tnt-uk": {
+    "colors": {
+      "primary": "#FF6602",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/tnt-uk.svg"
+    },
+    "prettyName": "TNT",
+    "region": ""
+  },
+  "tnt-express": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "TNT-EXPRESS",
+    "region": ""
+  },
+  "tnt-fr": {
+    "colors": {
+      "primary": "#FF6602",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/tnt-fr.svg"
+    },
+    "prettyName": "TNT",
+    "region": "FRA"
+  },
+  "tnt": {
+    "colors": {
+      "primary": "#FF6602",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/tnt.svg"
+    },
+    "prettyName": "TNT",
+    "region": "DEU, USA, ITA, NLD, FRA, AUT, GBR"
+  },
+  "tnt-it": {
+    "colors": {
+      "primary": "#FF6602",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "TNT",
+    "region": ""
+  },
+  "tnt-au": {
+    "colors": {
+      "primary": "#FF6602",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "TNT Australia",
+    "region": ""
+  },
+  "tof-kar": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#EE7C00",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/tof.svg"
+    },
+    "prettyName": "t-o-f Paket",
+    "region": ""
+  },
+  "tof-pal": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#EE7C00",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/tof.svg"
+    },
+    "prettyName": "t-o-f Palette",
+    "region": ""
+  },
+  "to-my-door": {
+    "colors": {
+      "primary": "#00FFFF",
+      "secondary": "#FFFFFF"
+    },
+    "prettyName": "ToMyDoor",
+    "region": ""
+  },
+  "topmovers-nl": {
+    "colors": {
+      "primary": "#FFFEFF",
+      "secondary": "#479E9A"
+    },
+    "prettyName": "Top Delivery Service",
+    "region": "NLD"
+  },
+  "torrestir": {
+    "colors": {
+      "primary": "#F4C64E",
+      "secondary": "#173C2E"
+    },
+    "prettyName": "Torrestir",
+    "region": ""
+  },
+  "alltech-total-express-br": {
+    "colors": {
+      "primary": "#1c00d5",
+      "secondary": "#D58500"
+    },
+    "prettyName": "Total Express",
+    "region": ""
+  },
+  "transnatur": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#10A9BB"
+    },
+    "prettyName": "TransNatur",
+    "region": ""
+  },
+  "tof": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#EE7C00",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/tof.svg"
+    },
+    "prettyName": "trans-o-flex",
+    "region": "DEU"
+  },
+  "trusk-fr": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#0036F8",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/trusk-fr.svg"
+    },
+    "prettyName": "Trusk",
+    "region": ""
+  },
+  "tuffnells": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#01B140",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/tuffnells.svg"
+    },
+    "prettyName": "Tuffnells",
+    "region": "DEU"
+  },
+  "ubsend": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#4f555c"
+    },
+    "prettyName": "UBSend",
+    "region": ""
+  },
+  "ukrposhta": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "Ukrposhta",
+    "region": ""
+  },
+  "uds": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#000000",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/uds.svg"
+    },
+    "prettyName": "UnitedDelivery",
+    "region": "DEU"
+  },
+  "ups": {
+    "colors": {
+      "primary": "#FFB500",
+      "secondary": "#351C15",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/ups.svg"
+    },
+    "prettyName": "UPS",
+    "region": "DEU, USA, NLD, FRA, GBR, CHE, ITA, POL, SWE, NOR, AUT, PRT, BEL, FIN, HKG, IRL, MYS, SGP, ESP, CAN, DNK, HUN, SVN, DEU, USA, NLD, FRA, GBR, CHE, ITA, POL, SWE, NOR, AUT, PRT, BEL, FIN, HKG, IRL, MYS, SGP, ESP, CAN, DNK, HUN, SVN"
+  },
+  "flex-ups": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "UPS",
+    "region": ""
+  },
+  "arvato-ups": {
+    "colors": {
+      "primary": "#FFB500",
+      "secondary": "#351C15",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/ups.svg"
+    },
+    "prettyName": "UPS",
+    "region": ""
+  },
+  "dsv-ups": {
+    "colors": {
+      "primary": "#FFB500",
+      "secondary": "#351C15",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/ups.svg"
+    },
+    "prettyName": "UPS",
+    "region": ""
+  },
+  "ups-express": {
+    "colors": {
+      "primary": "#FFB500",
+      "secondary": "#351C15",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/ups.svg"
+    },
+    "prettyName": "UPS Express",
+    "region": ""
+  },
+  "ups-mi": {
+    "colors": {
+      "primary": "#FFB500",
+      "secondary": "#351C15",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/ups.svg"
+    },
+    "prettyName": "UPS Mail",
+    "region": "FRA, USA, NOR, CAN, GBR"
+  },
+  "ups-turkey": {
+    "colors": {
+      "primary": "#FFB500",
+      "secondary": "#351C15",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/ups.svg"
+    },
+    "prettyName": "UPS Turkey",
+    "region": ""
+  },
+  "urbify": {
+    "colors": {
+      "primary": "#ffbe2e",
+      "secondary": "##1d1d1b"
+    },
+    "prettyName": "Urbify",
+    "region": ""
+  },
+  "urgent-cargus": {
+    "colors": {
+      "primary": "#EA6708",
+      "secondary": "#181D52"
+    },
+    "prettyName": "Urgent Cargus",
+    "region": "GBR"
+  },
+  "usps": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#323365",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/usps.svg"
+    },
+    "prettyName": "USPS",
+    "region": "USA, FRA, DEU, NOR, NLD, CAN, GBR, ISR"
+  },
+  "dhl-ecommerce-us": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#323365",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/usps.svg"
+    },
+    "prettyName": "USPS (DHL)",
+    "region": ""
+  },
+  "usps-express": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#323365",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/usps.svg"
+    },
+    "prettyName": "USPS Express",
+    "region": ""
+  },
+  "veho": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#040502",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/veho.svg"
+    },
+    "prettyName": "VEHO",
+    "region": ""
+  },
+  "venipak": {
+    "colors": {
+      "primary": "#9339f1",
+      "secondary": "#ffffff"
+    },
+    "prettyName": "Venipak",
+    "region": "GBR"
+  },
+  "vir-fr": {
+    "colors": {
+      "primary": "#003770",
+      "secondary": "#B1B3B4",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/vir-fr.svg"
+    },
+    "prettyName": "ViR Transport",
+    "region": ""
+  },
+  "wn-direct": {
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FEF200",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/wn-direct.svg"
+    },
+    "prettyName": "wnDirect",
+    "region": ""
+  },
+  "wormser": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "WORMSER",
+    "region": ""
+  },
+  "xdp-uk": {
+    "colors": {
+      "primary": "#4DABE9",
+      "secondary": "#2A2A2A"
+    },
+    "prettyName": "XDP-UK",
+    "region": ""
+  },
+  "iforce-xdp-uk": {
+    "colors": {
+      "primary": "#4DABE9",
+      "secondary": "#2A2A2A"
+    },
+    "prettyName": "XDP",
+    "region": ""
+  },
+  "xpo-fr": {
+    "colors": {
+      "primary": "#D00007",
+      "secondary": "#EDEDED",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/xpo-fr.svg"
+    },
+    "prettyName": "XPO",
+    "region": ""
+  },
+  "xpo-es": {
+    "colors": {
+      "primary": "#D00007",
+      "secondary": "#EDEDED",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/xpo-fr.svg"
+    },
+    "prettyName": "XPO",
+    "region": ""
+  },
+  "yamato": {
+    "colors": {
+      "primary": "#211815",
+      "secondary": "#F6D047",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/yamato.svg"
+    },
+    "prettyName": "Yamato",
+    "region": "ITA, GBR"
+  },
+  "yodel": {
+    "colors": {
+      "primary": "#99CC00",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/yodel.svg"
+    },
+    "prettyName": "Yodel",
+    "region": "GBR"
+  },
+  "iforce-collectplus": {
+    "colors": {
+      "primary": "#99CC00",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/yodel.svg"
+    },
+    "prettyName": "Yodel",
+    "region": ""
+  },
+  "iforce-yodel": {
+    "colors": {
+      "primary": "#99CC00",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/yodel.svg"
+    },
+    "prettyName": "Yodel",
+    "region": ""
+  },
+  "collectplus": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#000000",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/collectplus.svg"
+    },
+    "prettyName": "Yodel",
+    "region": "GBR"
+  },
+  "yurtici-kargo": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#006BAF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/yurtici-kargo.svg"
+    },
+    "prettyName": "Yurtici Kargo",
+    "region": ""
+  },
+  "yusen-uk": {
+    "colors": {
+      "primary": "#12204F",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/other.svg"
+    },
+    "prettyName": "YUSEN-UK",
+    "region": ""
+  },
+  "zalando": {
+    "colors": {
+      "primary": "#f1570e",
+      "secondary": "#F7F7F7"
+    },
+    "prettyName": "Zalando",
+    "region": ""
+  },
+  "zeitler": {
+    "colors": {
+      "primary": "#0210D5",
+      "secondary": "#FFFFFF",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/zeitler.svg"
+    },
+    "prettyName": "Zeitler",
+    "region": ""
+  },
+  "zeleris": {
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#14BE3B",
+      "url": "https://cdn.parcellab.com/img/couriers_logo/zeleris.svg"
+    },
+    "prettyName": "Zeleris",
+    "region": "FRA"
   }
 }
